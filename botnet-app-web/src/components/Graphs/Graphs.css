@@ -1,0 +1,9 @@
+.chart-container {
+    height: 100%;
+}
+
+.chart {
+  position: relative;
+  top: 50%;
+  transform: translateY(-50%);
+}
